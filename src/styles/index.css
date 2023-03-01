@@ -26,3 +26,9 @@
     padding: 10px;
     margin: 3px;
  }
+
+ .Calender {
+  color: white;
+  display: flex;
+  line-height: 20px;
+ }
